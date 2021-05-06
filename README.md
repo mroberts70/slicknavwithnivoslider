@@ -1,5 +1,5 @@
 # slicknavwithnivoslider
-A webpage that includes both a working nivo slider slideshow and a working slicknav mobile menu
+A webpage that demonstrates how you can have both a working nivo slider slideshow and a working slicknav mobile menu together on the same page.
 
 https://slicknavwithnivoslider.netlify.app/
 
